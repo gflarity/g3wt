@@ -1,0 +1,3 @@
+A Groovy, Grails and GWT "Hello, World!" application using RPC.
+
+This example assumes you have Groovy, Grails and GWT all installed and their associated environment variables defined.
