@@ -1,0 +1,10 @@
+package g3wt
+
+class DataService {
+
+    static transactional = true
+
+    def serviceMethod() {
+
+    }
+}
